@@ -59,6 +59,13 @@ The focus is on building strong fundamentals through hands-on coding.
 - Find sum of array elements
 - Find second largest element in an array
 
+---
+
+## 📅 Day 17 – Aptitude (Percentages & Ratios)
+- Solved 10 aptitude problems on percentages and ratios
+- Covered increase/decrease, ratio division, and conversions
+- Focused on placement-level numerical practice
+
 
 ## 🛠️ Technologies Used
 - Python
