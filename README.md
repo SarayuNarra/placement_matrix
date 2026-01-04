@@ -53,6 +53,13 @@ The focus is on building strong fundamentals through hands-on coding.
 
 ---
 
+## 📅 Day 14 – DSA Practice
+- Find maximum and minimum elements in an array
+- Linear search implementation
+- Find sum of array elements
+- Find second largest element in an array
+
+
 ## 🛠️ Technologies Used
 - Python
 - VS Code
