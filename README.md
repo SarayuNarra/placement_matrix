@@ -66,6 +66,13 @@ The focus is on building strong fundamentals through hands-on coding.
 - Covered increase/decrease, ratio division, and conversions
 - Focused on placement-level numerical practice
 
+---
+
+## 📅 Day 18 – Aptitude (Time & Work, Time & Distance)
+- Solved 10 aptitude problems
+- Covered work efficiency, men–days, speed, distance, and relative speed
+- Practiced placement-level numerical questions
+
 
 ## 🛠️ Technologies Used
 - Python
